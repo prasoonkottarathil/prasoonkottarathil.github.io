@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just a repo to Host my website😄
 
 <!--
 **prasoonkottarathil/prasoonkottarathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
